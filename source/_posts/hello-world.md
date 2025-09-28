@@ -1,5 +1,11 @@
 ---
 title: 关于我
+date: 2025-07-24 10:10:09
+tags: 
+  - 自我介绍
+top: false
+categories: 
+  - 自我介绍
 ---
 <h4 style="display: flex;justify-content: space-between;">
 <a href="https://www.gushiwen.cn/mingju/juv.aspx?id=e38900916853">路漫漫其修远兮，吾将上下而求索。——《屈原·离骚》</a>
