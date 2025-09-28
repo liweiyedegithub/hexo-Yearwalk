@@ -1,10 +1,14 @@
 ---
 title: Linux操作系统常用环境配置
 date: 2020-05-04 10:40:14
-tags: "Linux,环境配置"
+tags: 
+  - Linux
+  - 环境配置
 top: false
-categories: "Linux"
+categories: 
+  - Linux
 ---
+
 # 快捷建设置
 ``` shell
 #编辑或创建~/.bashrc文件
