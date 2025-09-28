@@ -6,6 +6,7 @@ tags:
 top: false
 categories: 
   - 自我介绍
+img: /medias/featureimages/8.jpg
 ---
 
 <h4 style="display: flex;justify-content: space-between;">

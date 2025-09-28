@@ -7,6 +7,7 @@ tags:
 top: false
 categories: 
   - 数据库快速部署
+img: /medias/featureimages/5.jpg
 ---
 
 # 使用Dokcer快速搭建PostgreSQL 11.8版本

@@ -7,6 +7,7 @@ tags:
 top: false
 categories: 
   - 数据库快速部署
+img: /medias/featureimages/3.jpg
 ---
 
 # 使用Dokcer快速搭建OceanBase-CE版本

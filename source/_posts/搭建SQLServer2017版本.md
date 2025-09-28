@@ -7,6 +7,8 @@ tags:
 top: false
 categories: 
   - 数据库快速部署
+  
+img: /medias/featureimages/6.jpg
 ---
 
 # 使用Dokcer快速搭建SQLServer 2017版本

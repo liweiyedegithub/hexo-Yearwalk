@@ -7,6 +7,7 @@ tags:
 top: false
 categories: 
   - 数据库快速部署
+img: /medias/featureimages/4.jpg
 ---
 
 # 使用Dokcer快速搭建Oracle 11g版本

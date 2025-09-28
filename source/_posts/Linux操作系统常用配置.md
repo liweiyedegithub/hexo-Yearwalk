@@ -7,6 +7,7 @@ tags:
 top: false
 categories: 
   - Linux
+img: /medias/featureimages/9.jpg
 ---
 
 # 快捷建设置
