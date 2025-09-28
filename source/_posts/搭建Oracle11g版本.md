@@ -1,11 +1,14 @@
 ---
 title: tags
-date: 2020-05-04 10:40:14
-tags: "Docker,K8S"
+date: 2024-05-11 10:10:32
+tags: 
+  - Docker
+  - Oracle
 top: false
-categories: "Docker"
+categories: 
+  - 数据库快速部署
 ---
-# 使用Dokcer快速搭建DB2 V10.5版本
+# 使用Dokcer快速搭建Oracle 11g版本
 ***安装前提需要已安装docker、docker-compose服务*** [docker、docker-compose在线、离线安装](https://blog.csdn.net/weixin_45494811)
 ## 在线加载镜像
 ``` bash
@@ -26,13 +29,14 @@ volumes:
   oracle_data:
 
 ```
-## 离线加载镜像
-需要将registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g:latest镜像手动加载
+## 离线加载镜像  
+需要将镜像手动加载
+[天翼云盘-Oracle11g 镜像下载连接](https://cloud.189.cn/t/QR3aU3BVjQRf（访问码：kx9h）)
 ``` bash
 #加载镜像
 docker load -i oracle_11g.tar
 #为镜像打tag
-docker tag obca  registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g:latest
+docker tag 3fa112fd3642  registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g:latest
 ```
 ## 镜像加载后启动
 ``` bash
