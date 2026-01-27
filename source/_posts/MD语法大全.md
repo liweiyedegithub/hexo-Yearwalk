@@ -1,15 +1,12 @@
 ---
-title: Kubernetes 容器运行节点指定与调度控制
-date: 2025-11-13 10:25:01
+title: MD 语法大全
+date: 2023-11-13 10:25:01
 tags: 
-  - Docker
-  - Kubernetes
-  - Yaml
+  - MD
 top: false
 categories: 
-  - 性能优化
-  - K8s节点调度
-img: /medias/featureimages/13.jpg
+  - 语法大全
+img: /medias/featureimages/17.jpg
 
 ---
 # 一级标题

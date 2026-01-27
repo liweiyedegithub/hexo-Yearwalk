@@ -10,7 +10,7 @@ categories:
   - 困难解决
   - 网络异常
 img: /medias/featureimages/8.jpg
-
+---
 ## 🧩 一、问题背景
 操作系统：Windows 10 / 11  
 网络环境：公司 WiFi + VPN 客户端  
@@ -19,7 +19,7 @@ img: /medias/featureimages/8.jpg
 近期在使用公司 VPN 软件后发现，重启电脑后虽然 WiFi 能正常连接，但无法访问互联网，  
 直到再次打开 VPN 客户端并点击“连接”，网络才恢复正常。
 
----
+
 
 ## 🚨 二、现象描述
 - WiFi 图标显示“已连接、已接入互联网”，但浏览器无法访问任何网站；
