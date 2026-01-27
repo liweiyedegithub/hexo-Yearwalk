@@ -15,9 +15,7 @@ img: /medias/featureimages/11.jpg
 
 **系统环境：** Ubuntu 20.04+\
 **问题现象：**\
-执行 `docker-compose up` 或启动 PostgreSQL 容器时报错：
-
-    Cannot start service postgreSQL: cgroups: cgroup mountpoint does not exist: unknown
+执行 `docker-compose up` 或启动 PostgreSQL 容器时报错：Cannot start service postgreSQL: cgroups: cgroup mountpoint does not exist: unknown
 
 ------------------------------------------------------------------------
 
